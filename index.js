@@ -1,5 +1,5 @@
 function log(){
-    console.log("hello world")
+    console.log("I caused a merge conflict.")
 }
 
 log()
